@@ -1,0 +1,33 @@
+{
+  "name": "sammybook",
+  "version": "1.0.0",
+  "description": "a book of sammys",
+  "main": "index.js",
+  "scripts": {
+    "knex": "knex",
+    "dev": "nodemon index",
+    "start": "node index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcodling/sammybook.git"
+  },
+  "author": "Thomas Codling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcodling/sammybook/issues"
+  },
+  "homepage": "https://github.com/tcodling/sammybook#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.0",
+    "knex": "^0.20.13",
+    "nodemon": "^2.0.2",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "jest": "^25.2.4",
+    "supertest": "^4.0.2"
+  }
+}
