@@ -1,7 +1,7 @@
 {
-  "name": "sammybook",
+  "name": "albumRater",
   "version": "1.0.0",
-  "description": "a book of sammys",
+  "description": "a rater of albums",
   "main": "index.js",
   "scripts": {
     "knex": "knex",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tcodling/sammybook.git"
+    "url": "git+https://github.com/piwakawaka-2020/albumRater.git"
   },
   "author": "Thomas Codling",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tcodling/sammybook/issues"
+    "url": "https://github.com/piwakawaka-2020/albumRater/issues"
   },
-  "homepage": "https://github.com/tcodling/sammybook#readme",
+  "homepage": "https://github.com/piwakawaka-2020/albumRater#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.0",
