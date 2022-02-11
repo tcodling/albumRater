@@ -21,7 +21,7 @@
   "homepage": "https://github.com/tcodling/sammybook#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "express-handlebars": "^4.0.0",
+    "express-handlebars": "^5.3.1",
     "knex": "^0.20.13",
     "nodemon": "^2.0.2",
     "sqlite3": "^4.1.1"
